@@ -20,3 +20,5 @@ Primeiro desafio de projeto do curso Formação Github Certification: **Exploran
 
  5. **[BÔNUS]** Autenticação com método de segurança do Github: [✔️]
     - Método Utilizado: 2FA.
+
+![Gif_do_gatinho](https://i.pinimg.com/originals/b1/44/15/b1441564a8b6e53807e9c7223f9245d1.gif)
