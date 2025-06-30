@@ -14,4 +14,4 @@ Primeiro desafio de projeto do curso Formação Github Certification: **Exploran
 3. Colaborar com o projeto: [ X ]
    - Adicionar um colaborador ao projeto (amigo ou conta secundária).
    - Realizar um clone local do projeto.
-   - 
+   - Realizar alterações em ambas as contas, fazer commits e pull requests.
